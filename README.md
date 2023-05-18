@@ -1,4 +1,7 @@
-![g](https://github.com/laithml/laithml/assets/23000431/b68aef7e-5f08-46c6-8306-038f10dc33b2)
+
+   <img src="/g.gif" width="250" height="250"/>
+
+
 
 
 # 💫 About Me:

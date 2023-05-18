@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Laith Muhtaseb</h1>
 <h3 align="center">A passionate Software Engineer from Jerusalem</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laithml" alt="laithml" /></a> </p>
+
 
 - 🔭 I’m currently working on [project for Safafa](https://github.com/laithml/project_for_safafa)
 

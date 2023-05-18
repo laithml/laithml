@@ -1,33 +1,24 @@
-# Laith Muhtaseb
+<h1 align="center">Hi 👋, I'm Laith Muhtaseb</h1>
+<h3 align="center">A passionate Software Engineer from Jerusalem</h3>
 
-📞 Phone: 0587796773  
-📧 Email: Laithml95@gmail.com  
-💼 LinkedIn: [laithml](https://www.linkedin.com/in/laithml)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=laithml" alt="laithml" /></a> </p>
 
-## About Me
-I am a motivated and hardworking Software Engineering student currently pursuing a B.Sc. degree in Software Engineering at Azrieli College of Engineering Jerusalem. With 2-3 semesters remaining until graduation, I am actively seeking opportunities to contribute my skills in software development. I have a strong passion for problem-solving and enjoy participating in hackathons and coding competitions to further enhance my abilities.
+- 🔭 I’m currently working on [project for Safafa](https://github.com/laithml/project_for_safafa)
 
-## Education
-- B.Sc. Software Engineer, Azrieli College of Engineering Jerusalem (2020 – Present)
-- High School, Technology Science Jerusalem School, Jerusalem (2016 - 2019)
-  - Final project: Developed a data analysis website and Android app for Instagram profiles.
+- 🌱 I’m currently learning **React Native and Machine Learning**
 
-## Skills
-- Programming Languages: C, C++, Java, Python, Assembly, SQL
-- Quality Assurance (QA)
-- Operating Systems: MacOS, Linux, Windows
+- 💬 Ask me about **C,C++ or Java**
 
-## Projects
-- **Chat Server:** Developed a Chat Server using sockets in C, showcasing experience in network programming and communication protocols (2023).
-- **Disk Files Simulator:** Built a Disk Files Simulator simulating the disk management using index allocation (OS) (2022).
-- **Catch Me Game:** Created a game using Java where a random box pops up on the screen and the objective is to click on it to score points (2021).
+- 📫 How to reach me **laithml95@gmail.com**
 
-## Experience
-2016 – Present - Technician and Vendor of cell phones (Sultan for Technology), Jerusalem	
-- Diagnose and repair hardware and software issues on smartphones and tablets.
-- Provide customer service and technical support, ensuring customer satisfaction.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/laithml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laithml" height="30" width="40" /></a>
+</p>
 
-## Languages
-- Arabic – mother tongue
-- Hebrew – advanced
-- English – advanced
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=laithml&show_icons=true&locale=en&layout=compact" alt="laithml" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=laithml&show_icons=true&locale=en" alt="laithml" /></p>
